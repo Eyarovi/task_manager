@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Написать CLI менеджер",
+        "deacription": "Реализовать функции очистки, вывода и сохранения",
+        "status": "active",
+        "priority": "high",
+        "created_at": "2026-09-14",
+        "deadline": "2026-09-18"
+    },
+    {
+        "id": "2",
+        "title": "Повторить работу с JSON",
+        "deacription": "Закрепить load/dump",
+        "status": "completed",
+        "priority": "medium",
+        "created_at": "2026-09-13",
+        "deadline": "2026-09-14"
+    }
+]
